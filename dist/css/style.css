@@ -130,7 +130,7 @@
 
 body {
   font-size: 100%;
-  background-image: url(../images/pattern-background-mobile.svg);
+  background-image: url(../../images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #f5f7ff;
@@ -139,7 +139,7 @@ body {
 
 @media (min-width: 499px) {
   body {
-    background-image: url(../images/pattern-background-desktop.svg);
+    background-image: url(../../images/pattern-background-desktop.svg);
   }
 }
 
